@@ -1,0 +1,5 @@
+
+	The process ID:930
+	The Thread ID:930
+	HOME: /home/cabox
+	The PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
